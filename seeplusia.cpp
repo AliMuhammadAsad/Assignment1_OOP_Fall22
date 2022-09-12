@@ -53,7 +53,7 @@ void makeMove(string direction){
 
 	//Moving on to Direction West
 	if (direction == "West" && applesLeft >= 1){
-		if (currentState == "Bridge of Death" && nCrystalsFound >= 3 && applesLeft >= 5){
+		if (currentState == "Bridge of Death" && nCrystalsFound == 4 && applesLeft >= 5){
 			moveWest(); currentState = "Wizards Castle"; //Moves West to move west obviously
 			applesLeft -= 5; gameState = "Won"; //Wins by reaching Wizards Castle and saves Prince Lazy (Students also need saving now xD)
 		}
@@ -104,7 +104,7 @@ void makeMove(string direction){
 			moveNorth(); currentState = "Wampire Cove";
 			applesLeft -= 3; gameState = "Running";
 		}
-		else if (currentState == "Eisten Tunnel" && applesLeft >= 10 && nCrystalsFound >= 3){
+		else if (currentState == "Eisten Tunnel" && applesLeft >= 10 && nCrystalsFound == 4){
 			moveNorth(); moveNorth(); currentState = "Wizards Castle";
 			applesLeft -= 10; gameState = "Won";
 		}
