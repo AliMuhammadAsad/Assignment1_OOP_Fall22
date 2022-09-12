@@ -1,7 +1,7 @@
 # Assignment1_OOP_Fall22
 This contains our first homework for OOP in which we had to design a game.
 
-To run the game, go on seeplusia.cpp and press f5/run it on vscode etc and play the game. Make sure to read the rules of the game.
+To run the game, go on seeplusia.cpp and press f5 / run it on vscode etc and play the game. Make sure to read the rules of the game.
 
 //**Legend of SeePlusia**
 
