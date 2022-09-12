@@ -11,7 +11,7 @@ give you the power to defeat the wizard and rescue Prince Lazy. The world of See
 world. The direction of travel between locations is given by an arrow and the number of apples required to travel from one location to other are also
 shown.
 
-The rules of the game of Legend of SeePlusia are as follows.
+The rules of the game of Legend of SeePlusia are as follows:
 - You begin at Enchanted Forest on the first day with 20 apples.
 - You have to save Prince Lazy who is held captive at Wizard’s Castle.
 - At each location you can only go in one of four directions: north, south,
