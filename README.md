@@ -1,6 +1,8 @@
 # Assignment1_OOP_Fall22
 This contains our first homework for OOP in which we had to design a game.
 
+To run the game, go on seeplusia.cpp and press f5/run it on vscode etc and play the game. Make sure to read the rules of the game.
+
 //**Legend of SeePlusia**
 
 Prince Lazy has been captured by an evil wizard. You are Zeldana, a female warrior who takes it upon yourself to rescue the prince and return him to his
